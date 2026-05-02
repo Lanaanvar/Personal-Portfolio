@@ -70,7 +70,7 @@ export default function Home() {
             </li>
             <li className="flex justify-between items-center group">
               <span className="group-hover:text-cinnamon transition-colors">reading</span>
-              <span className="text-muted-foreground text-right">"the vegetarian"</span>
+              <span className="text-muted-foreground text-right">"Mother Mary Comes To Me"</span>
             </li>
             <li className="flex justify-between items-center group">
               <span className="group-hover:text-cinnamon transition-colors">location</span>
