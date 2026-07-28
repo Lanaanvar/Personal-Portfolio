@@ -23,7 +23,7 @@ export default function Home() {
       <header className="flex justify-between items-start font-mono text-sm md:text-base">
         <div>
           <h1 className="font-semibold text-foreground tracking-tight">lana anvar</h1>
-          <p className="text-muted-foreground mt-1 opacity-80">machine learning engineer</p>
+          <p className="text-muted-foreground mt-1 opacity-80">Intern @ Bosch Global Software Technologies</p>
         </div>
         <nav className="flex flex-col items-end gap-3 md:gap-4">
           <a
