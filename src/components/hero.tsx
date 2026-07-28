@@ -48,7 +48,7 @@ export function Hero() {
                         Lana Anvar
                     </h1>
                     <h2 className="text-xl sm:text-2xl font-medium text-muted-foreground/80">
-                        Machine Learning Engineer
+                        Intern @ Bosch Global Software Technologies
                     </h2>
                 </div>
                 <p className="text-lg text-muted-foreground max-w-[42rem] leading-relaxed">
