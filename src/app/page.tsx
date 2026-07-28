@@ -66,11 +66,11 @@ export default function Home() {
           <ul className="space-y-4">
             <li className="flex justify-between items-center group">
               <span className="group-hover:text-cinnamon transition-colors">researching</span>
-              <span className="text-muted-foreground text-right">crowd anomaly detection</span>
+              <span className="text-muted-foreground text-right">ai integration in vehicles</span>
             </li>
             <li className="flex justify-between items-center group">
               <span className="group-hover:text-cinnamon transition-colors">reading</span>
-              <span className="text-muted-foreground text-right">"Mother Mary Comes To Me"</span>
+              <span className="text-muted-foreground text-right">"Into The Blue"</span>
             </li>
             <li className="flex justify-between items-center group">
               <span className="group-hover:text-cinnamon transition-colors">location</span>
